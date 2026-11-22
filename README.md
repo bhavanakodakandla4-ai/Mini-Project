@@ -1,6 +1,8 @@
 # Mini-Project
 Adaptive Congestion-Aware Routing in Software-Defined Networks Using Reinforcement Learning
+
 Overview
+
 This project simulates congestion-aware routing in a Software-Defined Networking (SDN) environment using a Deep Q-Network (DQN), a reinforcement-learning approach. A graph represents the network, and nodes are assigned congestion states. The agent learns to select routes from a source node to a destination while avoiding congested nodes and unnecessary loops.
 
 The notebook demonstrates the agent under two network conditions:
